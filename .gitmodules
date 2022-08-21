@@ -1,0 +1,3 @@
+[submodule "Libs/dotnet-mdevoldere"]
+	path = Libs/dotnet-mdevoldere
+	url = https://github.com/mdevoldere/dotnet-mdevoldere.git
